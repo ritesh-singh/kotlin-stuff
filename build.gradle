@@ -13,6 +13,12 @@ version '1.0-SNAPSHOT'
 
 apply plugin: 'kotlin'
 
+kotlin {
+    experimental {
+        coroutines 'enable'
+    }
+}
+
 repositories {
     mavenCentral()
 }
