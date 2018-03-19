@@ -1,0 +1,3 @@
+No conflict of main function in different files as kotlin allows, main functions in different files.
+However, it doesn't allow more than one main functions per file.
+
