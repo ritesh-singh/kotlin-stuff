@@ -1,3 +1,6 @@
 No conflict of main function in different files as kotlin allows, main functions in different files.
 However, it doesn't allow more than one main functions per file.
 
+Unit is kind of Void in Kotlin
+
+Any is top level class of kotlin like Object
