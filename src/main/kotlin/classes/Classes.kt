@@ -1,5 +1,7 @@
 package classes
 
+import java.util.*
+
 class Customer {
     var id = 0
     var name: String = ""
@@ -30,17 +32,39 @@ class Customer4(val id: Int, var name: String) {
 //Class with secondary constructor
 class Customer5(id: Int, var name: String) {
 
-    var email:String? = null
+    var email: String? = null
 
     init {
         name = name.toUpperCase()
     }
 
     // It is mandatory to delegate values to primary constructor
-    constructor(id:Int,name:String,email: String) : this(id,name) {
+    constructor(id: Int, name: String, email: String) : this(id, name) {
         // This block is equivalent to init block of primary constructor
         this.email = email.toUpperCase()
     }
+}
+
+
+// With custom getter and setter
+class Customer6(val id: Int, val name: String, val yearOfBirth:Int) {
+
+    val abc:Int?=null
+
+    val age: Int
+        get() = Calendar.getInstance().get(Calendar.YEAR) - yearOfBirth
+
+
+    // Since, there is no field in kotlin, as ascesors are created by default, the value is set by using
+    // the backing field.
+    var socialSecurityNumber:String = ""
+        // value name can be anything
+        set(value) {
+            if (!value.startsWith("SN")){
+                throw IllegalArgumentException("Social security number should start with SN")
+            }
+            field = value
+        }
 }
 
 fun main(args: Array<String>) {
@@ -73,15 +97,26 @@ fun main(args: Array<String>) {
 
     println("-------------------------------------------------------------------------------")
 
-    val customer5 = Customer5(10,"John","john@gmail.com")
+    // Secondary constructor
+
+    val customer5 = Customer5(10, "John", "john@gmail.com")
     println(customer5.name)
     println(customer5.email)
 
     println()
 
-    val customer5v1 = Customer5(20,"John-Mike")
+    val customer5v1 = Customer5(20, "John-Mike")
     println(customer5v1.name)
     println(customer5v1.email)
 
     println("-------------------------------------------------------------------------------")
+
+    // With custom getter and setter
+    val customer6 = Customer6(10,"Mike",1992)
+    println(customer6.id)
+    println(customer6.name)
+    println(customer6.age)
+    customer6.socialSecurityNumber = "SN1234"
+    println(customer6.socialSecurityNumber)
+
 }
