@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/ClassesKt.class" afterPath="$PROJECT_DIR$/out/production/classes/classes/ClassesKt.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer4.class" afterPath="$PROJECT_DIR$/out/production/classes/classes/Customer4.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer5.class" afterPath="$PROJECT_DIR$/out/production/classes/classes/Customer5.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer6.class" afterPath="$PROJECT_DIR$/out/production/classes/classes/Customer6.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -21,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Classes.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt">
+      <file leaf-file-name="CustomerKotlin.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/CustomerKotlin.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1248">
-              <caret line="119" column="43" lean-forward="true" selection-start-line="119" selection-start-column="43" selection-end-line="119" selection-end-column="43" />
+            <state relative-caret-position="437">
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -37,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -463,6 +469,8 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Customer.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Customer" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/classes/CustomerKotlin.kt" />
       </list>
     </option>
   </component>
@@ -554,7 +562,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.classes.ClassesKt">
+  <component name="RunManager" selected="Kotlin.classes.CustomerKotlinKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -632,14 +640,14 @@
       <module name="kotlin-stuff_main" />
       <envs />
     </configuration>
-    <configuration name="coroutines.basics.Example_context_01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.CustomerKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="coroutines.basics.Example_context_01Kt" />
+      <option name="MAIN_CLASS_NAME" value="classes.CustomerKotlinKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="kotlin-stuff_main" />
       <envs />
@@ -697,19 +705,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.coroutines.basics.Example_context_01Kt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.LoopsAndRangesKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.ConditionalsKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.classes.ClassesKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.LoopsAndRangesKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.ConditionalsKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.classes.ClassesKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.classes.CustomerKotlinKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.classes.ClassesKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.ConditionalsKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.LoopsAndRangesKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.coroutines.basics.Example_context_01Kt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.classes.CustomerKotlinKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.classes.ClassesKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.ConditionalsKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.LoopsAndRangesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -743,7 +751,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6011111" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39666668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1049,8 +1057,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="119" column="43" lean-forward="true" selection-start-line="119" selection-start-column="43" selection-end-line="119" selection-end-column="43" />
+        <state relative-caret-position="279">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="51" column="50" lean-forward="true" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/CustomerKotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding />
         </state>
       </provider>
