@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/ClassesKt.class" afterPath="$PROJECT_DIR$/out/production/classes/classes/ClassesKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer4.class" afterPath="$PROJECT_DIR$/out/production/classes/classes/Customer4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer5.class" afterPath="$PROJECT_DIR$/out/production/classes/classes/Customer5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer6.class" afterPath="$PROJECT_DIR$/out/production/classes/classes/Customer6.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CustomerKotlin.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/CustomerKotlin.kt">
+      <file leaf-file-name="EnumClasses.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/EnumClasses.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -471,6 +466,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/CustomerKotlin.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/classes/EnumClasses.kt" />
       </list>
     </option>
   </component>
@@ -562,7 +558,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.classes.CustomerKotlinKt">
+  <component name="RunManager" selected="Kotlin.classes.EnumClassesKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -616,18 +612,6 @@
       <module name="kotlin-stuff_main" />
       <envs />
     </configuration>
-    <configuration name="basics.LoopsAndRangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basics.LoopsAndRangesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="kotlin-stuff_main" />
-      <envs />
-    </configuration>
     <configuration name="classes.ClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -648,6 +632,18 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="classes.CustomerKotlinKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-stuff_main" />
+      <envs />
+    </configuration>
+    <configuration name="classes.EnumClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="classes.EnumClassesKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="kotlin-stuff_main" />
       <envs />
@@ -705,19 +701,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.LoopsAndRangesKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.ConditionalsKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.classes.ClassesKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.classes.CustomerKotlinKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.ConditionalsKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.classes.ClassesKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.classes.CustomerKotlinKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.classes.EnumClassesKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.classes.CustomerKotlinKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.classes.ClassesKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.ConditionalsKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.LoopsAndRangesKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.classes.EnumClassesKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.classes.CustomerKotlinKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.classes.ClassesKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.ConditionalsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -750,7 +746,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2611111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39666668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1086,8 +1082,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/CustomerKotlin.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="277">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/EnumClasses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
