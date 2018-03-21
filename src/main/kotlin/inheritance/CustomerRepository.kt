@@ -25,6 +25,14 @@ interface CustomerRepository {
     fun getById(id: Int): Customer
 }
 
+interface EmployeeRepository {
+    fun store(obj: Employee) {
+
+    }
+
+    fun getById(id: Int): Employee
+}
+
 class SqlCustomerRepository : CustomerRepository {
     override val property: Int = 29
 
@@ -32,19 +40,19 @@ class SqlCustomerRepository : CustomerRepository {
 
 }
 
-interface interface1{
-    fun funA(){
+interface interface1 {
+    fun funA() {
         println("funA from interface 1")
     }
 }
 
-interface  interface2 {
-    fun funA(){
+interface interface2 {
+    fun funA() {
         println("funA from interface 2")
     }
 }
 
-class Class1And2 : interface1,interface2 {
+class Class1And2 : interface1, interface2 {
 
 //    override fun funA() {
 //        println("Our Own")
