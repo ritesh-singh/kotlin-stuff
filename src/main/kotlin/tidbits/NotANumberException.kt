@@ -54,6 +54,7 @@ fun main(args: Array<String>) {
     } finally {
         println("Closing")
         buffer.close()
+
     }
     println(result)
 }
