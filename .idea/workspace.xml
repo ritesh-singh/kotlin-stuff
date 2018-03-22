@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functional/GettingFunctional.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/functional/GettingFunctional.kt" />
-    </list>
+    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GettingFunctional.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/functional/GettingFunctional.kt">
+      <file leaf-file-name="Closures.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/functional/Closures.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
-              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state relative-caret-position="418">
+              <caret line="22" column="67" lean-forward="false" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -500,6 +497,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/functional/functional" />
         <option value="$PROJECT_DIR$/src/main/kotlin/tidbits/NotANumberException.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/functional/GettingFunctional.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/functional/Closures.kt" />
       </list>
     </option>
   </component>
@@ -626,7 +624,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.functional.GettingFunctionalKt">
+  <component name="RunManager" selected="Kotlin.functional.ClosuresKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -668,6 +666,18 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="functional.ClosuresKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="functional.ClosuresKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-stuff_main" />
+      <envs />
+    </configuration>
     <configuration name="functional.GettingFunctionalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -676,18 +686,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="functional.GettingFunctionalKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="kotlin-stuff_main" />
-      <envs />
-    </configuration>
-    <configuration name="tidbits.CastingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tidbits.CastingKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="kotlin-stuff_main" />
       <envs />
@@ -769,19 +767,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.tidbits.CastingKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.tidbits.TuplesKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.tidbits.NotANumberExceptionKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.tidbits.ConstantsKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.functional.GettingFunctionalKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.tidbits.TuplesKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.tidbits.NotANumberExceptionKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.tidbits.ConstantsKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.functional.GettingFunctionalKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.functional.ClosuresKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.functional.GettingFunctionalKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.tidbits.ConstantsKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.tidbits.NotANumberExceptionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.tidbits.TuplesKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.tidbits.CastingKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.functional.ClosuresKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.functional.GettingFunctionalKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.tidbits.ConstantsKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.tidbits.NotANumberExceptionKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.tidbits.TuplesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -818,7 +816,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37666667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37013888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -865,16 +863,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-07.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#27#161#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-09.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1213,8 +1201,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/functional/GettingFunctional.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
+        <state relative-caret-position="371">
           <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/functional/Closures.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="67" lean-forward="false" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
           <folding />
         </state>
       </provider>
