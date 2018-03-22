@@ -1,9 +1,9 @@
 package tidbits
 
-val CopyrightAuthor = "Hadi Hariri"
+val CopyrightAuthor = "Alex"
 
 object Copyright {
-    val author = "Hadi Hariri"
+    val author = "Alex"
 }
 
 fun main(args: Array<String>) {
