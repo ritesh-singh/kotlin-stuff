@@ -31,5 +31,20 @@ public class TalkingToKotlin {
 
         customerKotlin.preferential();
 
+        // Invoking top level functions from kotlin
+//        TopLevelFunctionsKt.prefix("some", "value");
+//
+//        TopLevelFunctionsKt.getCopyRightYear();
+//
+//        int copyRightMonth = TopLevelFunctionsKt.copyRightMonth;
+
+        // Annotation in the file does the below trick, changing of name
+        UtilityClass.prefix("some", "value");
+
+        UtilityClass.getCopyRightYear();
+
+        int copyRightMonth = UtilityClass.copyRightMonth;
+
+
     }
 }
