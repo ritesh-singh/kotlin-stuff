@@ -1,6 +1,7 @@
 package interoperability;
 
 import classes.CustomerKotlin;
+import classes.CustomerKotlinKt;
 import classes.Status;
 
 import java.io.IOException;
@@ -45,6 +46,9 @@ public class TalkingToKotlin {
 
         int copyRightMonth = UtilityClass.copyRightMonth;
 
+
+        // Calling extensions function
+        CustomerKotlinKt.extension(customerKotlin);
 
     }
 }
