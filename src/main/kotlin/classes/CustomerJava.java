@@ -1,5 +1,7 @@
 package classes;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.Objects;
 
 public class CustomerJava {
@@ -32,6 +34,19 @@ public class CustomerJava {
         this.email = email;
     }
 
+
+    public @NotNull String neverNull(){
+        return "A String";
+    }
+
+    public String someTimesNull(){
+        return "A String";
+    }
+
+    public void prettyPrint() {
+        System.out.printf("Id: %d - Name: %s%n", id, name);
+
+    }
 
     @Override
     public String toString() {

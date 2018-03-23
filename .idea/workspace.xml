@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java" afterPath="$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -21,12 +22,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExtensionFunctions.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/functional/ExtensionFunctions.kt">
+      <file leaf-file-name="CustomerJava.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="259">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +44,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -451,9 +459,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-01.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-02.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutine" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-03.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-04.kt" />
@@ -476,7 +481,6 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Customer.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Customer" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/CustomerKotlin.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/EnumClasses.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Objects.kt" />
@@ -501,6 +505,11 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/functional/GettingFunctional.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/functional/Closures.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/functional/ExtensionFunctions.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/interoperability/interop" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/interoperability/PersonJava.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/interoperability/CustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/interoperability/TalkingToJava.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java" />
       </list>
     </option>
   </component>
@@ -584,7 +593,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-stuff" type="b2602c69:ProjectViewProjectNode" />
@@ -592,7 +601,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="interoperability" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -601,7 +610,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Nothing&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Nothing.kt&#10;Cus&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Customer&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Pair&#9;null&#9;null&#10;Person&#9;null&#9;null&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Any&#9;null&#9;null&#10;build&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;buil&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle" />
+    <property name="SearchEverywhereHistoryKey" value="Customer&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerJava.java&#10;Nothing&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Nothing.kt&#10;Cus&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Pair&#9;null&#9;null&#10;Person&#9;null&#9;null&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Any&#9;null&#9;null&#10;build&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;buil&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -627,7 +636,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.functional.ExtensionFunctionsKt">
+  <component name="RunManager" selected="Kotlin.interoperability.TalkingToJavaKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -705,6 +714,18 @@
       <module name="kotlin-stuff_main" />
       <envs />
     </configuration>
+    <configuration name="interoperability.TalkingToJavaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="interoperability.TalkingToJavaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-stuff_main" />
+      <envs />
+    </configuration>
     <configuration name="tidbits.ConstantsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -713,18 +734,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="tidbits.ConstantsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="kotlin-stuff_main" />
-      <envs />
-    </configuration>
-    <configuration name="tidbits.NotANumberExceptionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tidbits.NotANumberExceptionKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="kotlin-stuff_main" />
       <envs />
@@ -770,19 +779,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.tidbits.NotANumberExceptionKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.tidbits.ConstantsKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.functional.GettingFunctionalKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.functional.ClosuresKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.functional.ExtensionFunctionsKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.tidbits.ConstantsKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.functional.GettingFunctionalKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.functional.ClosuresKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.functional.ExtensionFunctionsKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.interoperability.TalkingToJavaKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.functional.ExtensionFunctionsKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.functional.ClosuresKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.functional.GettingFunctionalKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.tidbits.ConstantsKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.tidbits.NotANumberExceptionKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.interoperability.TalkingToJavaKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.functional.ExtensionFunctionsKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.functional.ClosuresKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.functional.GettingFunctionalKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.tidbits.ConstantsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -815,7 +824,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2611111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2611111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37666667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -866,45 +875,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-10.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="e#27#161#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-context-01.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/coroutines/coroutine">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/repl/repl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Primitives.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="537" column="31" lean-forward="false" selection-start-line="537" selection-start-column="24" selection-end-line="537" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Unit.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -916,6 +886,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -931,6 +902,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="213" column="7" lean-forward="true" selection-start-line="213" selection-start-column="7" selection-end-line="213" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#25830#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1060,14 +1034,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1210,9 +1176,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/functional/ExtensionFunctions.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="406">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/interoperability/interop">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="872" column="0" lean-forward="true" selection-start-line="872" selection-start-column="0" selection-end-line="872" selection-end-column="0" />
+          <folding>
+            <element signature="e#24380#24381#0" expanded="false" />
+            <element signature="e#24405#24406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/interoperability/PersonJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/interoperability/CustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/interoperability/TalkingToJava.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
