@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LazyEvaluation.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/stdlib/LazyEvaluation.kt">
+      <file leaf-file-name="LetWithApply.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/stdlib/LetWithApply.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="77" column="13" lean-forward="false" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -51,6 +49,9 @@
       <find>printStrings</find>
       <find>printStringsAgain</find>
       <find>The Dark Side of the Moon</find>
+      <find>print</find>
+      <find>apply</find>
+      <find>also</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -453,7 +454,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-08.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-09.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-10.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-context-01.kt" />
@@ -504,6 +504,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/WoringWithCollections.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/FilterMapFlatMap.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/LazyEvaluation.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/LetWithApply.kt" />
       </list>
     </option>
   </component>
@@ -596,7 +597,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Customer&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Nothing&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Nothing.kt&#10;Cus&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Pair&#9;null&#9;null&#10;Person&#9;null&#9;null&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Any&#9;null&#9;null&#10;build&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;buil&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle" />
+    <property name="SearchEverywhereHistoryKey" value="StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Customer&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Nothing&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Nothing.kt&#10;Cus&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Pair&#9;null&#9;null&#10;Person&#9;null&#9;null&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Any&#9;null&#9;null&#10;build&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;buil&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -622,7 +623,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.stdlib.LazyEvaluationKt">
+  <component name="RunManager" selected="Kotlin.stdlib.LetWithApplyKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -683,18 +684,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="interoperability.TalkingToJavaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="interoperability.TalkingToJavaKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="kotlin-stuff_main" />
-      <envs />
-    </configuration>
     <configuration name="stdlib.FilterMapFlatMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -715,6 +704,18 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="stdlib.LazyEvaluationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-stuff_main" />
+      <envs />
+    </configuration>
+    <configuration name="stdlib.LetWithApplyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stdlib.LetWithApplyKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="kotlin-stuff_main" />
       <envs />
@@ -772,19 +773,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.interoperability.TalkingToJavaKt" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TalkingToKotlin" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.stdlib.WoringWithCollectionsKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.stdlib.FilterMapFlatMapKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.stdlib.LazyEvaluationKt" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TalkingToKotlin" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.stdlib.WoringWithCollectionsKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.stdlib.FilterMapFlatMapKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.stdlib.LazyEvaluationKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.stdlib.LetWithApplyKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.stdlib.LazyEvaluationKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.stdlib.FilterMapFlatMapKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.stdlib.WoringWithCollectionsKt" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TalkingToKotlin" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.interoperability.TalkingToJavaKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.stdlib.LetWithApplyKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.stdlib.LazyEvaluationKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.stdlib.FilterMapFlatMapKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.stdlib.WoringWithCollectionsKt" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TalkingToKotlin" />
       </list>
     </recent_temporary>
   </component>
@@ -821,7 +822,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37666667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25277779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -868,46 +869,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/inheritance/Generics.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/inheritance/GenericRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/inheritance/CustomerRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/inheritance/AbstractClasses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/EnumClasses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/classes/Objects.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1292,8 +1253,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/stdlib/LazyEvaluation.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="380">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/text/TypeAliases.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Any.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="91" column="14" lean-forward="true" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/stdlib/LetWithApply.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="77" column="13" lean-forward="false" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
           <folding />
         </state>
       </provider>
