@@ -1,5 +1,6 @@
 package inheritance
 
+// Abstract class, can have state
 abstract class StoredEntity {
     var isActive = true
     abstract fun store()

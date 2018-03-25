@@ -1,7 +1,5 @@
 package functional
 
-import javax.rmi.CORBA.Util
-
 // High order function
 
 fun operation(x: Int, y: Int, op: (Int, Int) -> Int) {

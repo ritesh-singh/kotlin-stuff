@@ -55,7 +55,7 @@ class Customer6(val id: Int, val name: String, val yearOfBirth:Int) {
         get() = Calendar.getInstance().get(Calendar.YEAR) - yearOfBirth
 
 
-    // Since, there is no field in kotlin, as ascesors are created by default, the value is set by using
+    // Since, there is no field in kotlin, as accessor are created by default, the value is set by using
     // the backing field.
     var socialSecurityNumber:String = ""
         // value name can be anything

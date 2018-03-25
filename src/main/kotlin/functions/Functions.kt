@@ -42,7 +42,7 @@ fun printStrings(vararg strings: String) {
 
 
 /**
- * Here * is spread operator, spread operator is used here to pun an array
+ * Here * is spread operator, spread operator is used here to put an array
  * into a vararg parameter
  */
 
