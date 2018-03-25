@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LocalFunctions.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/functions/LocalFunctions.kt">
+      <file leaf-file-name="InfixNotations.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/functions/InfixNotations.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="209">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -461,7 +461,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-10.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-context-01.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/repl/repl" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Variables.kt" />
@@ -512,6 +511,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/inheritance/AbstractClasses.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/LetWithApply.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/functions/LocalFunctions.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/advanced/functions/InfixNotations.kt" />
       </list>
     </option>
   </component>
@@ -630,7 +630,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.advanced.functions.LocalFunctionsKt">
+  <component name="RunManager" selected="Kotlin.advanced.functions.InfixNotationsKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -672,6 +672,18 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="advanced.functions.InfixNotationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="advanced.functions.InfixNotationsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-stuff_main" />
+      <envs />
+    </configuration>
     <configuration name="advanced.functions.LocalFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -704,18 +716,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="introduction.basics.LoopsAndRangesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="kotlin-stuff_main" />
-      <envs />
-    </configuration>
-    <configuration name="introduction.stdlib.LazyEvaluationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introduction.stdlib.LazyEvaluationKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="kotlin-stuff_main" />
       <envs />
@@ -773,19 +773,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LazyEvaluationKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LetWithApplyKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.introduction.basics.LoopsAndRangesKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.advanced.functions.LocalFunctionsKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LetWithApplyKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.introduction.basics.LoopsAndRangesKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.advanced.functions.LocalFunctionsKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.advanced.functions.InfixNotationsKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.advanced.functions.LocalFunctionsKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.introduction.basics.LoopsAndRangesKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LetWithApplyKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LazyEvaluationKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.advanced.functions.InfixNotationsKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.advanced.functions.LocalFunctionsKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.introduction.basics.LoopsAndRangesKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LetWithApplyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -807,6 +807,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -817,8 +818,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42666668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37666667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42666668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37666667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25277779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -868,14 +869,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/generated/_Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="2214" column="0" lean-forward="true" selection-start-line="2214" selection-start-column="0" selection-end-line="2214" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/collections/Sequences.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
@@ -1270,8 +1263,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/functions/LocalFunctions.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/functions/InfixNotations.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
