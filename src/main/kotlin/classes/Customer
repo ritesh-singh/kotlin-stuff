@@ -1,8 +1,0 @@
-Declaring a class, just class keyword followed by classname.
-
-Kotlin classes has only properties, there is no concept of fields (internal state of class), every variable
-created in kotlin class has its default implementation of accessors, i.e it has default implementation of
-getter and setters.
-
-// Constructors
-https://www.programiz.com/kotlin-programming/constructors

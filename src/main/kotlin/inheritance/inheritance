@@ -1,4 +1,0 @@
-Base class for any class is Any()
-
-Classes are final by default, to inherit make it open
-To override super-class functions, make it open as it's final.
