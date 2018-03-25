@@ -1,208 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/basics/ConditionalsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/basics/LoopsAndRangesKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/basics/MainKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/basics/VariablesKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/basics/utils/SampleUtilsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/ClassesKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Customer6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/CustomerJava.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/CustomerKotlin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/CustomerKotlinKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/EnumClassesKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Global.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/ObjectsKt$main$localObject$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/ObjectsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Priority.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Priority1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Priority2$CRITICAL.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Priority2$MAJOR.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Priority2$MINOR.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Priority2$NORMAL.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Priority2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/classes/Status.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_01Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_01Kt$main1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_01Kt$main1$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_01Kt$main2$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_01Kt$main2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_01Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_02Kt$main$1$job$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_02Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_02Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_03Kt$doWorld$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_03Kt$main$1$job$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_03Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_03Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_04Kt$main$1$jobs$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_04Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_04Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_05Kt$main$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_05Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_05Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_06Kt$main$1$job$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_06Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_06Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_07Kt$doSomethingUsefulOne$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_07Kt$doSomethingUsefulTwo$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_07Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_07Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_08Kt$main$1$time$1$one$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_08Kt$main$1$time$1$two$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_08Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_08Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_09Kt$main$1$time$1$one$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_09Kt$main$1$time$1$two$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_09Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_09Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_10Kt$main$time$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_10Kt$somethingUsefulOneAsync$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_10Kt$somethingUsefulTwoAsync$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_10Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_context_01Kt$main$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_context_01Kt$main$1$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_context_01Kt$main$1$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_context_01Kt$main$1$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_context_01Kt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/coroutines/basics/Example_context_01Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/BaseClass.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/ClosuresKt$outsideFunction$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/ClosuresKt$outsideFunction$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/ClosuresKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/Customer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/Database.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/ExtensionFunctionsKt$toTitleCase$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/ExtensionFunctionsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt$main$sumLambda$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/GettingFunctionalKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functional/InheritedClass.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/functions/FunctionsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/AbstractClassesKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/Class1And2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/Customer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/CustomerRepository$DefaultImpls.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/CustomerRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/CustomerRepositoryKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/Employee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/EmployeeRepository$DefaultImpls.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/EmployeeRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/GenericRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/GenericsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/InheritanceKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/MyRepo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/Person.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/Repo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/Repository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/SpecialCustomer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/SqlCustomerRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/StoredEntity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/interface1$DefaultImpls.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/interface1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/interface2$DefaultImpls.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/interface2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/interoperability/CustomerRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/interoperability/KotlinCustomerRepo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/interoperability/PersonJava.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/interoperability/PersonKotlin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/interoperability/TalkingToJavaKt$main$runnable$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/interoperability/TalkingToJavaKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/interoperability/TalkingToKotlin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/interoperability/UtilityClass.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/nullsafety/NullSafetyKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stdlib/Album.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stdlib/FilterMapFlatMapKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stdlib/LazyEvaluationKt$main$lazyInit$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stdlib/LazyEvaluationKt$main$numbers$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stdlib/LazyEvaluationKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stdlib/LetWithApplyKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stdlib/Track.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stdlib/WoringWithCollectionsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/CastingKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/ConstantsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/Contractor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/Copyright.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/Employee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/NotANumberException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/NotANumberExceptionKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/Person.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/tidbits/TuplesKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/Conditionals.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/basics/Conditionals.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/LoopsAndRanges.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/basics/LoopsAndRanges.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/Main.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/basics/Main.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/Variables.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/basics/Variables.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/basics" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/basics/basics" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/utils/SampleUtils.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/basics/utils/SampleUtils.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/classes/Classes.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Customer" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/classes/Customer" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/CustomerJava.java" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/classes/CustomerJava.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/CustomerKotlin.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/classes/CustomerKotlin.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/EnumClasses.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/classes/EnumClasses.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Objects.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/classes/Objects.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-01.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-02.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-03.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-04.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-05.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-06.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-07.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-08.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-09.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-10.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-context-01.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/coroutine" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functional/Closures.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/functional/Closures.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functional/ExtensionFunctions.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/functional/ExtensionFunctions.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functional/GettingFunctional.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/functional/GettingFunctional.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functional/functional" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/functional/functional" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/Functions.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/functions/Functions.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/functions" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/functions/functions" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/AbstractClasses.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/inheritance/AbstractClasses.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/CustomerRepository.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/inheritance/CustomerRepository.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/GenericRepository.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/inheritance/GenericRepository.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/Generics.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/inheritance/Generics.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/Inheritance.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/inheritance/Inheritance.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/inheritance" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/inheritance/inheritance" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interoperability/CustomerRepository.java" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/interoperability/CustomerRepository.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interoperability/PersonJava.java" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/interoperability/PersonJava.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interoperability/TalkingToJava.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/interoperability/TalkingToJava.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interoperability/TalkingToKotlin.java" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/interoperability/TalkingToKotlin.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interoperability/TopLevelFunctions.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/interoperability/TopLevelFunctions.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interoperability/interop" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/interoperability/interop" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullsafety/NullSafety.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/nullsafety/NullSafety.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/repl/repl" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/repl/repl" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/stdlib/FilterMapFlatMap.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/stdlib/FilterMapFlatMap.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/stdlib/LazyEvaluation.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/stdlib/LazyEvaluation.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/stdlib/LetWithApply.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/stdlib/LetWithApply.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/stdlib/WoringWithCollections.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/stdlib/WoringWithCollections.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/stdlib/standardlib" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/stdlib/standardlib" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tidbits/Casting.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/tidbits/Casting.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tidbits/Constants.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/tidbits/Constants.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tidbits/NotANumberException.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/tidbits/NotANumberException.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tidbits/Tuples.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/tidbits/Tuples.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tidbits/input" afterPath="$PROJECT_DIR$/src/main/kotlin/introduction/tidbits/input" />
-    </list>
+    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -227,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LoopsAndRanges.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/introduction/basics/LoopsAndRanges.kt">
+      <file leaf-file-name="LocalFunctions.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/functions/LocalFunctions.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -244,8 +43,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Interface" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -662,7 +461,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-09.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-10.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/basics/example-context-01.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/repl/repl" />
@@ -713,6 +511,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/functions/Functions.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/inheritance/AbstractClasses.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/LetWithApply.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/advanced/functions/LocalFunctions.kt" />
       </list>
     </option>
   </component>
@@ -796,16 +595,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-stuff" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-stuff" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -840,7 +630,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.introduction.basics.LoopsAndRangesKt">
+  <component name="RunManager" selected="Kotlin.advanced.functions.LocalFunctionsKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -882,6 +672,18 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="advanced.functions.LocalFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="advanced.functions.LocalFunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-stuff_main" />
+      <envs />
+    </configuration>
     <configuration name="introduction.basics.ConditionalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -902,18 +704,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="introduction.basics.LoopsAndRangesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="kotlin-stuff_main" />
-      <envs />
-    </configuration>
-    <configuration name="introduction.stdlib.FilterMapFlatMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introduction.stdlib.FilterMapFlatMapKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="kotlin-stuff_main" />
       <envs />
@@ -983,19 +773,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.FilterMapFlatMapKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LazyEvaluationKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LetWithApplyKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.introduction.basics.LoopsAndRangesKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LazyEvaluationKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LetWithApplyKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.introduction.basics.LoopsAndRangesKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.advanced.functions.LocalFunctionsKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.introduction.basics.LoopsAndRangesKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LetWithApplyKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LazyEvaluationKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.FilterMapFlatMapKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.advanced.functions.LocalFunctionsKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.introduction.basics.LoopsAndRangesKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LetWithApplyKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.introduction.stdlib.LazyEvaluationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1017,7 +807,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1028,8 +817,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42666668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37666667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42666668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37666667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25277779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1079,25 +868,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="3799" column="34" lean-forward="true" selection-start-line="3799" selection-start-column="34" selection-end-line="3799" selection-end-column="34" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="false" />
-            <element signature="e#177054#177055#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/collections/Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/generated/_Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1486,6 +1256,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/functions/LocalFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
