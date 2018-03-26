@@ -9,6 +9,6 @@ fun main(args: Array<String>) {
 
 
     // Anonymous function
-    // Can have multiple return types, unlike lambda
+    // Can have multiple return types, unlike lamba
     println(op(4, fun(x): Int { return x * x }))
 }
