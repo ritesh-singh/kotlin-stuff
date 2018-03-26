@@ -1,4 +1,4 @@
 Kotlin standard lib is small size (approx 750kb).
 
-Kotlin doesn't have it's own collections, however it provides set if interfaces on the top of Java Collections.
+Kotlin doesn't have it's own collections, however it provides set of interfaces on the top of Java Collections.
 Mutable Interfaces and Immutable Interfaces
