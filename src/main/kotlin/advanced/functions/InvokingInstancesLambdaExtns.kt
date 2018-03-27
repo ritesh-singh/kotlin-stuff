@@ -21,8 +21,8 @@ class RouterHandlerr(val requestt: Requestt, val responsee: Responsee)
 fun routeHandlerr(path: String, f: RouterHandlerr.() -> Unit): RouterHandlerr.() -> Unit = f
 
 fun main(args: Array<String>) {
-    val a = routeHandlerr("index.html"){
-        if (requestt.query != ""){
+    routeHandlerr("index.html") {
+        if (requestt.query != "") {
             // process
         }
 
@@ -38,7 +38,7 @@ fun main(args: Array<String>) {
 }
 
 class Manager {
-    operator fun invoke(value:String){
+    operator fun invoke(value: String) {
 
     }
 }

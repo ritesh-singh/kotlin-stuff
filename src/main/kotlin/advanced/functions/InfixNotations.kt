@@ -7,10 +7,10 @@ package advanced.functions
 
 
 /**
- * It's much more readable and expressive way.
+ * It's much more readable a
  */
 
-fun String.shouldBeEqualTo(value: String) = this == value
+fun String.shouldBeEqualTo(value:String) = this == value
 
 infix fun String.isMatching(value: String) = this == value
 
