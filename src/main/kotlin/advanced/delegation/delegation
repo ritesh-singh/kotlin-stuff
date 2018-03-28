@@ -13,3 +13,6 @@ class Window(val bounds:Rectangle){
 }
 
 In kotlin, it provides first class support for advanced.delegation in a different way.
+
+The Delegation pattern has proven to be a good alternative to implementation inheritance,
+and Kotlin supports it natively requiring zero boilerplate code
