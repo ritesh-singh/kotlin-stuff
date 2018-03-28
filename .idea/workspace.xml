@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -28,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AlgebricDataTypes.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/classes/AlgebricDataTypes.kt">
+      <file leaf-file-name="TypeAliases.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/classes/TypeAliases.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -466,7 +464,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/tidbits/Constants.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/AnnotationsTest.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutines/functional" />
         <option value="$PROJECT_DIR$/src/main/kotlin/functional/functional" />
@@ -517,6 +514,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/classes/NestedClass.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/classes/HideConstructor.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/classes/AlgebricDataTypes.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/advanced/classes/TypeAliases.kt" />
       </list>
     </option>
   </component>
@@ -651,7 +649,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.advanced.classes.AlgebricDataTypesKt">
+  <component name="RunManager" selected="Kotlin.advanced.classes.TypeAliasesKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -729,6 +727,18 @@
       <module name="kotlin-stuff_main" />
       <envs />
     </configuration>
+    <configuration name="advanced.classes.TypeAliasesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="advanced.classes.TypeAliasesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-stuff_main" />
+      <envs />
+    </configuration>
     <configuration name="advanced.functions.InfixNotationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -737,18 +747,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="advanced.functions.InfixNotationsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="kotlin-stuff_main" />
-      <envs />
-    </configuration>
-    <configuration name="introduction.functional.ClosuresKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introduction.functional.ClosuresKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="kotlin-stuff_main" />
       <envs />
@@ -794,19 +792,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.introduction.functional.ClosuresKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.advanced.functions.InfixNotationsKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.advanced.classes.FieldsKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.advanced.classes.LateInitKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.advanced.classes.AlgebricDataTypesKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.advanced.functions.InfixNotationsKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.advanced.classes.FieldsKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.advanced.classes.LateInitKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.advanced.classes.AlgebricDataTypesKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.advanced.classes.TypeAliasesKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.advanced.classes.AlgebricDataTypesKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.advanced.classes.LateInitKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.advanced.classes.FieldsKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.advanced.functions.InfixNotationsKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.introduction.functional.ClosuresKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.advanced.classes.TypeAliasesKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.advanced.classes.AlgebricDataTypesKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.advanced.classes.LateInitKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.advanced.classes.FieldsKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.advanced.functions.InfixNotationsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -840,8 +838,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27555555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27555555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32777777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -893,13 +891,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/introduction/basics/Variables.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/introduction/classes/Classes.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-568">
@@ -1278,8 +1269,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/classes/AlgebricDataTypes.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/classes/TypeAliases.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding />
         </state>
       </provider>
