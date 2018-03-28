@@ -1,0 +1,15 @@
+
+This is what a basic delegation, delegating work to different class.
+
+class Rectangle(val width:Int, val height:Int){
+    fun area(){
+        return width * height;
+    }
+}
+
+class Window(val bounds:Rectangle){
+    // Delegation
+    fun area() = bounds.area()
+}
+
+In kotlin, it provides first class support for delegation in a different way.
