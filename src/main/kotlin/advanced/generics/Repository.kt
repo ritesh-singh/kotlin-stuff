@@ -2,6 +2,9 @@ package advanced.generics
 
 import java.io.Serializable
 
+// By default the restriction is
+// Any?
+
 // Upper Bound Restriction on Generics
 
 open class Entity(val id: Int)
