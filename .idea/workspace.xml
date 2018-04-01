@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/advanced/generics/GenericsAndInVariance" afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/generics/GenericsAndInVariance" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/advanced/generics/Covariance.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/generics/Covariance.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Covariance.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/generics/Covariance.kt">
+      <file leaf-file-name="Contravariance.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/generics/Contravariance.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="494">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -467,8 +467,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/standardlib" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/WoringWithCollections.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/FilterMapFlatMap.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/stdlib/LazyEvaluation.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/classes/Classes.kt" />
@@ -518,6 +516,8 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/generics/GenericsAndInVariance" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/generics/ReadOnlyRepoImpl.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/generics/Covariance.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/advanced/generics/WriteRepoImpl.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/advanced/generics/Contravariance.kt" />
       </list>
     </option>
   </component>
@@ -910,22 +910,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/introduction/stdlib/LazyEvaluation.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/advanced/functions/CompositionTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/functions/InfixNotations.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1320,10 +1304,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/generics/WriteRepoImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/generics/Covariance.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="446">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/generics/Contravariance.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>

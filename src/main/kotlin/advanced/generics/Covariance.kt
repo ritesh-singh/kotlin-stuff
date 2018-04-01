@@ -32,7 +32,7 @@ fun operate(person: List<Person>) {
 
 }
 
-// Co-variance, used for read only i.e only producing
+// Co-variance, used for read only
 interface ReadOnlyRepo<out T> {
     fun getId(id: Int): T
     fun getAll(): List<T>
