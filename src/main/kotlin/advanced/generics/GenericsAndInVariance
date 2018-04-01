@@ -42,3 +42,25 @@ In Java, arrays are covariant.
 Kotlin is much safer than Java. Arrays in Kotlin have invariant type parameter.
 List interface has covariant type parameter, because it is immutable.
 MutableList has invariant type parameter
+
+
+---------------------
+
+InVariant types
+
+Given Employee and person where
+
+Employee is a subtype of person
+
+
+
+If Array<Employee> is not a subtype of Array<Person>
+            &
+If Array<Person> is not a subtype of Array<Employee>
+
+we say that the array is invariant.
+
+
+In Java, all classes are Invariant
+
+
