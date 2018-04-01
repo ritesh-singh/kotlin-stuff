@@ -1,0 +1,17 @@
+Type Projections
+
+ - Java offers use-site variance(when it makes the actual calls),
+ while kotlin offers declaration-site variance.
+
+ Sometime use-site variance is required, like upper bound and lower bound.
+
+ In kotlin it is taken care by type projections (Define it on the call)
+
+ - Creates a restricted form of the type, called Type-Projection.
+
+
+
+Star Projection - are a safe way to indicate a subtype of projection.
+
+Eg - if(element is List<*>) // if element is list of whatever type parameter
+
