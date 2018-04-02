@@ -2,7 +2,7 @@ package advanced.metaprogramming
 
 import java.lang.reflect.Type
 
-class Transaction(val id: Int, val amount: Double, var desc: String) {
+class Transaction(val id: Int, val amount: Double, var desc: String = "Default value") {
     fun validate() {
         if (amount > 10000) {
             println("advanced.metaprogramming.Transaction is too large")
