@@ -1,0 +1,63 @@
+https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread
+
+https://gamedev.stackexchange.com/questions/143454/unity-coroutine-vs-threads
+
+
+https://kotlinlang.org/docs/reference/coroutines.html
+https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html
+
+
+* Co-routines in Kotlin
+
+Coroutines simplify asynchronous programming by putting the complications into libraries.
+The logic of the program can be expressed sequentially in a coroutine,
+and the underlying library will figure out the asynchrony for us.
+The library can wrap relevant parts of the user code into callbacks,
+subscribe to relevant events, schedule execution on different threads (or even different machines!),
+and the code remains as simple as if it was sequentially executed.
+
+- Provides general support for co-routines.
+- Delegate "approaches" to library functions.
+    - Compiler transforms code into a state machine.
+- Co-routines in kotlin are stackless.
+    - Returns control upward to it's caller.
+
+
+
+* Suspendible Computations
+
+Time consuming operations or long-running is suspension point,
+which could be executed in the diffn thread.
+
+
+
+
+* Building Blocks in Kotlin
+
+- Co-routine Builders
+    functions that defines a controller, taking co-routine as a block of code.
+
+- Controller
+    defines suspension points, how return value are processed, exceptions are handled and all in
+    general the co-routine behavior.
+
+- Suspension functions
+    specially marked functions where suspension points occur
+       -These functions receive the continuation parameter implicitly (injected by compiler)
+
+
+
+* State Machine and Suspension points
+
+- Now, compiler translated suspension point codes into state machines
+- We have one class and instance of this state per co-routine
+- Each state represents an entry point to a continuation
+- First continuation is the initial state
+
+
+* Out of the box (Async) in kotlin
+
+- Part of standard library
+- Async/Await
+- Generators(yield)
+- Rx(Async) -> wrapper around reactive extensions

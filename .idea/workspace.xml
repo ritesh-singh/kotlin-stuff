@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="" />
+    <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -26,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Annotations.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/metaprogramming/Annotations.kt">
+      <file leaf-file-name="couroutine" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/coroutines/couroutine">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="475">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -464,7 +466,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/advanced/functions/NoInline.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/functions/NotInline" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/functions/Inline" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/functions/InlineFunctions.kt" />
@@ -515,6 +516,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/metaprogramming/KotlinReflection.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/metaprogramming/TypeErasure.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/advanced/metaprogramming/Annotations.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/advanced/coroutines/couroutine" />
       </list>
     </option>
   </component>
@@ -607,7 +609,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="metaprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="coroutines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-stuff" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="delegation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-stuff" type="b2602c69:ProjectViewProjectNode" />
@@ -622,7 +633,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Transa&#9;null&#9;null&#10;build&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;Kclass&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/reflect/KClass.kt&#10;javaRe&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/metaprogramming/JavaReflection.kt&#10;KClass&#9;null&#9;null&#10;KCLass&#9;null&#9;null&#10;Transaction.class&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/org/omg/IOP/TransactionService.class&#10;buil&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;bu&#9;null&#9;null&#10;Object.java&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Objects.java&#10;Enum&#9;null&#9;null&#10;Standard.&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.21/795e111c612ba96d0175f5705291228ca8167dc8/kotlin-stdlib-1.2.21-sources.jar!/kotlin/util/Standard.kt&#10;router&#9;null&#9;null&#10;lambda&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/LambdaExtensions.kt&#10;Anonym&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/AnonymousFunction.kt&#10;Anony&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/AnonymousFunction.kt&#10;func&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/introduction/functional/GettingFunctional.kt&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Customer&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Nothing&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Nothing.kt&#10;Cus&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Pair&#9;null&#9;null&#10;Person&#9;null&#9;null&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Any&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="build&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;Transa&#9;null&#9;null&#10;Kclass&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/reflect/KClass.kt&#10;javaRe&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/metaprogramming/JavaReflection.kt&#10;KClass&#9;null&#9;null&#10;KCLass&#9;null&#9;null&#10;Transaction.class&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/org/omg/IOP/TransactionService.class&#10;buil&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;bu&#9;null&#9;null&#10;Object.java&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Objects.java&#10;Enum&#9;null&#9;null&#10;Standard.&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.21/795e111c612ba96d0175f5705291228ca8167dc8/kotlin-stdlib-1.2.21-sources.jar!/kotlin/util/Standard.kt&#10;router&#9;null&#9;null&#10;lambda&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/LambdaExtensions.kt&#10;Anonym&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/AnonymousFunction.kt&#10;Anony&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/AnonymousFunction.kt&#10;func&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/introduction/functional/GettingFunctional.kt&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Customer&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Nothing&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Nothing.kt&#10;Cus&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Pair&#9;null&#9;null&#10;Person&#9;null&#9;null&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Any&#9;null&#9;null" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -899,13 +910,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/classes/HideConstructor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/introduction/classes/EnumClasses.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1236,20 +1240,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/reflect/KClass.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1267,7 +1263,7 @@
         <state relative-caret-position="218">
           <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="e#34#106#0" expanded="true" />
+            <element signature="e#34#106#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1282,8 +1278,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/metaprogramming/Annotations.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/advanced/coroutines/couroutine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
