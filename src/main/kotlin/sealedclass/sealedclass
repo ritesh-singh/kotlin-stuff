@@ -1,0 +1,13 @@
+Sealed classes are used to represent restricted class hierarchies, which means that the number of
+classes that extends a sealed class is fixed.
+
+It’s similar to an Enum in the sense that you can know beforehand the options you have when looking at
+the specific type of an object of the parent sealed class.
+The difference is that enum instances are unique, while sealed classes can have multiple
+instances which can contain different states.
+
+The good thing about sealed classes is that when they are used in a 􏰳􏰶􏰈􏰒
+expression, we can check all the options and won’t need to add the 􏰈􏰂􏰄􏰈 clause.
+
+And if at some point we add a new subclass,
+the compiler will warn us about the places where we should be dealing with it.
