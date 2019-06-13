@@ -1,0 +1,3 @@
+Lambda expressions are anonymous function that we can treat as values.
+
+eg - pass them as argument to functions, return them, or do any other thing we could do with a normal object.

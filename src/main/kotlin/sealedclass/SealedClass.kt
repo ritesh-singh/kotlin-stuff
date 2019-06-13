@@ -1,6 +1,6 @@
 package sealedclass
 
-fun main(args: Array<String>) {
+fun main() {
     fun speed(car: Car): Int = when (car) {
         is Car.Maruti -> car.speed
         is Car.Bugatti -> car.speed + car.boost
