@@ -1,0 +1,10 @@
+DSL is a language that focuses on just one particular part of an application.
+
+Lambda
+
+Lambda with Receiver
+
+Extension function and Lambda - Lambda with Receiver
+
+A lambda with a receiver allows you to call methods of an object in the body of a lambda without any
+qualifiers.
