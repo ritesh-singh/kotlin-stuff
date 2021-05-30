@@ -1,15 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="kotlin-stuff" />
+    </loaded-modules>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dcdec990-3dc7-4495-acb5-48e74300e407" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/kotlin-stuff_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kotlin-stuff_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/kotlin-stuff_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kotlin-stuff_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kotlin-stuff_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/AlgebricDataTypesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/CompanionObjectsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/CustomController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/DirectoryExplorer$PermissionCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/DirectoryExplorer$PermissionCheckInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/DirectoryExplorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/Error.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/FieldsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/HideConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/HideMe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/LateInitKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/Log$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/NestedClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/NestedClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/PageResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/Success.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/classes/TypeAliasesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/BuiltInDelegatesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/DelegatingMemberFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/DelegatingPropertiesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/Employee$$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/ExtensionPropertiesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/ExternalFunctionality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/LocalDelegatesKt$localDelegatedProperties$lazy$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/LocalDelegatesKt$localDelegatedProperties$lazyValue$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/LocalDelegatesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/Veto$$special$$inlined$vetoable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/delegation/Veto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/AnonymousFunctionKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/AnonymousFunctionKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/AnonymousFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/InfixNotationsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/InlineFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/InvokingInstancesLambdaExtnsKt$main$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/InvokingInstancesLambdaExtnsKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/InvokingInstancesLambdaExtnsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/LambdaExtensionsKt$main$1$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/LambdaExtensionsKt$main$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/LambdaExtensionsKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/LambdaExtensionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/LocalFunctionsKt$foo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/LocalFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/OperatorOverloadingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/Requestt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/Responsee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/ReturnsAndLocalReturnsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/RouterHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/RouterHandlerr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/Statuss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/functions/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/CovarianceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/CustomerEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/ReadOnlyRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/ReadOnlyRepoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/RepositoryKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/generics/WriteRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/AnnotationsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/Field.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/JavaReflectionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/KotlinReflectionKt$main$constructor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/KotlinReflectionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/advanced/metaprogramming/TypeErasureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/basics/ConditionalsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/basics/LoopsAndRangesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/basics/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/basics/VariablesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/basics/utils/SampleUtilsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/ClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Customer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Customer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Customer3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Customer4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Customer5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Customer6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/CustomerJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/CustomerKotlin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/CustomerKotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/EnumClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Global.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/ObjectsKt$main$localObject$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/ObjectsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Priority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Priority1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Priority2$CRITICAL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Priority2$MAJOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Priority2$MINOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Priority2$NORMAL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Priority2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/classes/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/ClosuresKt$outsideFunction$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/ClosuresKt$outsideFunction$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/ClosuresKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/ExtensionFunctionsKt$toTitleCase$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/ExtensionFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt$main$sumLambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/GettingFunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functional/InheritedClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/functions/FunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/AbstractClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/Class1And2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/CustomerRepository$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/CustomerRepositoryKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/EmployeeRepository$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/GenericRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/GenericsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/InheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/MyRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/Repo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/SpecialCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/SqlCustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/StoredEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/interface1$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/interface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/interface2$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/inheritance/interface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/interoperability/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/interoperability/KotlinCustomerRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/interoperability/PersonJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/interoperability/PersonKotlin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/interoperability/TalkingToJavaKt$main$runnable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/interoperability/TalkingToJavaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/interoperability/TalkingToKotlin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/interoperability/UtilityClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/nullsafety/NullSafetyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/stdlib/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/stdlib/FilterMapFlatMapKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/stdlib/LazyEvaluationKt$main$lazyInit$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/stdlib/LazyEvaluationKt$main$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/stdlib/LazyEvaluationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/stdlib/LetWithApplyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/stdlib/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/stdlib/WoringWithCollectionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/CastingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/ConstantsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/Contractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/Copyright.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/NotANumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/NotANumberExceptionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/introduction/tidbits/TuplesKt.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,34 +222,19 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-stuff" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="classes.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/dsl/classes.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="e#13#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Standard.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/util/Standard.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="70" column="15" lean-forward="true" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -535,6 +719,7 @@
     <option name="width" value="838" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectId" id="1tGyKi6f7h7g9TIsecclDjRugkv" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -602,13 +787,19 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="build&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;Transa&#9;null&#9;null&#10;Kclass&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/reflect/KClass.kt&#10;javaRe&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/metaprogramming/JavaReflection.kt&#10;KClass&#9;null&#9;null&#10;KCLass&#9;null&#9;null&#10;Transaction.class&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/org/omg/IOP/TransactionService.class&#10;buil&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/build.gradle&#10;bu&#9;null&#9;null&#10;Object.java&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Objects.java&#10;Enum&#9;null&#9;null&#10;Standard.&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.21/795e111c612ba96d0175f5705291228ca8167dc8/kotlin-stdlib-1.2.21-sources.jar!/kotlin/util/Standard.kt&#10;router&#9;null&#9;null&#10;lambda&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/LambdaExtensions.kt&#10;Anonym&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/AnonymousFunction.kt&#10;Anony&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/advanced/functions/AnonymousFunction.kt&#10;func&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/introduction/functional/GettingFunctional.kt&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Customer&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Nothing&#9;FILE&#9;jar:///Users/riteshksingh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/50878770fd010106bd91f2f5c3b7904a56883ec3/kotlin-stdlib-1.2.30-sources.jar!/kotlin/Nothing.kt&#10;Cus&#9;FILE&#9;file:///Users/riteshksingh/projects/kotlin-stuff/src/main/kotlin/classes/CustomerKotlin.kt&#10;Pair&#9;null&#9;null&#10;Person&#9;null&#9;null&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Any&#9;null&#9;null" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin/advanced" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -619,62 +810,24 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/coroutines" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Kotlin.dsl.ClassesKt">
+  <component name="RunManager" selected="Application.MainKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="dsl.ClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-stuff_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="dsl.ClassesKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="highorderfunction.HigherOrderFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-stuff_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="highorderfunction.HigherOrderFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="introduction.basics.ConditionalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ConditionalsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-stuff_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -683,63 +836,51 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="introduction.basics.ConditionalsKt" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="lambda.LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-stuff_main" />
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-stuff.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambda.LambdaKt" />
+      <option name="MAIN_CLASS_NAME" value="introduction.basics.MainKt" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="sealedclass.SealedClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-stuff_main" />
+    <configuration name="NullSafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-stuff.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="sealedclass.SealedClassKt" />
+      <option name="MAIN_CLASS_NAME" value="introduction.nullsafety.NullSafetyKt" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list>
-      <item itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
-      <item itemvalue="Kotlin.sealedclass.SealedClassKt" />
-      <item itemvalue="Kotlin.lambda.LambdaKt" />
-      <item itemvalue="Kotlin.highorderfunction.HigherOrderFunctionKt" />
-      <item itemvalue="Kotlin.dsl.ClassesKt" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.dsl.ClassesKt" />
-        <item itemvalue="Kotlin.highorderfunction.HigherOrderFunctionKt" />
-        <item itemvalue="Kotlin.lambda.LambdaKt" />
-        <item itemvalue="Kotlin.sealedclass.SealedClassKt" />
-        <item itemvalue="Kotlin.introduction.basics.ConditionalsKt" />
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.NullSafetyKt" />
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.ConditionalsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -821,8 +962,20 @@
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kotlin_stuff$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1622406995734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.21/795e111c612ba96d0175f5705291228ca8167dc8/kotlin-stdlib-1.2.21-sources.jar!/kotlin/Any.kt" />
